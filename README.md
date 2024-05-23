@@ -60,7 +60,6 @@ So, now in the industry, this passion remains with me. There's certainly yet mor
   #### Monitoring 
    
   <p float="left">
-   <code><img width="15%" height="75" src="https://github.com/cncf/artwork/blob/master/projects/thanos/horizontal/color/thanos-horizontal-color.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
    <code><img width="15%" height="75" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
